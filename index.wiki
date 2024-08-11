@@ -2,11 +2,13 @@
 
 * [[Reading/Reading|阅读]]
 * [[Cards/Cards|卡片]]
+* [[Learning/Learning|学习]]
 
 = Generated Links =
     - [[Cards/Cards]]
     - [[Cards/古希腊人的工作观]]
     - [[Cards/希洛人]]
+    - [[Cards/思维反刍]]
     - [[Reading/Reading]]
     - [[Reading/民主反对资本主义]]
     - [[index]]

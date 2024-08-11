@@ -1,6 +1,5 @@
-tags: :历史研究: :资本主义:
-
-[[https://www.marxists.org/chinese/ellen-wood/democracyagainstcapitalism/index.htm|民主反对资本主义——重建历史唯物主义]]
+tags: :历史研究: :资本主义: :马克思主义: :历史唯物主义:
+reference: [[https://www.marxists.org/chinese/ellen-wood/democracyagainstcapitalism/index.htm|民主反对资本主义——重建历史唯物主义]]
 
 = 第六章 劳动与民主，古代的和现代的 =
 

@@ -1,10 +1,10 @@
-= 笔记 =
+# 笔记
 
 * [[Reading/Reading|阅读]]
 * [[Cards/Cards|卡片]]
 * [[Learning/Learning|学习]]
 
-= Generated Links =
+## Generated Links
     - [[Cards/Cards]]
     - [[Cards/古希腊人的工作观]]
     - [[Cards/希洛人]]

@@ -1,4 +1,3 @@
-tags: :learning: :typst:
-reference: [[https://typst.app/docs/guides/guide-for-latex-users/|Typst Guide for LaTex users]]
-
+tags: #learning #typst
+reference: [Typst Guide for LaTex users](https://typst.app/docs/guides/guide-for-latex-users/)
 

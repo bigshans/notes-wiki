@@ -2,4 +2,4 @@
 
 - [阅读](Reading/Reading)
 - [卡片](Cards/Cards)
-- [学校](Learning/Learning)
+- [学习](Learning/Learning)

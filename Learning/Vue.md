@@ -1,4 +1,4 @@
-tags: #vue
+#+TAGS: #vue
 
 ## `pausableWatch` 的实现思路 #pausableWatch
 

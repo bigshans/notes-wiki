@@ -2,4 +2,4 @@
 
 ##  标记语言 
 
-- [typst](typst)
+- [typst](typst.md)

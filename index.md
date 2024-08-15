@@ -1,5 +1,5 @@
 # 笔记
 
-- [阅读](Reading/Reading)
-- [卡片](Cards/Cards)
-- [学习](Learning/Learning)
+- [阅读](Reading/Reading.md)
+- [卡片](Cards/Cards.md)
+- [学习](Learning/Learning.md)

@@ -1,6 +1,4 @@
-#+TAGS: #vue
-
-## `pausableWatch` 的实现思路 #pausableWatch
+#+TAGS: #vue #pausableWatch 
 
 ```javascript
 import { ref, watch, readonly } from "vue";
@@ -24,6 +22,7 @@ export const watchPausable = (
     };
     return {
         isActive: readonly(isActive),
+        resume,
         stop,
         stopWatch,
     };

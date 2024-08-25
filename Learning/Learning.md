@@ -3,4 +3,3 @@
 ## 标记语言 
 
 - [typst](typst.md)
-- [Vue](Vue.md)
